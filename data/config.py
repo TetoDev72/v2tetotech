@@ -3,7 +3,7 @@
 # ============================================================================
 
 DEBUG = False  # отладка, выключить на продакшене
-FLAVOR = "debug"  # Флейвор сервера, может быть debug/release
+FLAVOR = "release"  # Флейвор сервера, может быть debug/release
 SENSITIVE_LOGGING = False  # чувствительные данные в логах, отключать на продакшене
 API_VERSION = "1.0.0"  # версия сервера
 PROJECT_NAME = "v2tetotech server"  # имя появления (можно сделать к примеру v2tetotech mirror by <your name>)
