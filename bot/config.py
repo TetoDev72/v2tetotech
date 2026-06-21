@@ -5,7 +5,7 @@ dotenv.load_dotenv()
 
 BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
 SERVERS = [
-    "localhost:8000"
+    "v2tetotech.onrender.com"
 ]
 
 API_BASE = os.getenv("API_BASE", "http://localhost:8000")
